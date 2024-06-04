@@ -8,25 +8,23 @@ ist_alumni_system/
 │   │   ├── User.php
 │   │   ├── Profile.php
 │   │   └── Job.php
-│   ├── views/
-│   │   ├── admin/
-│   │   │   ├── dashboard.php
-│   │   │   ├── edit_profile.php
-│   │   │   ├── manage_users.php
-│   │   │   ├── post_job.php
-│   │   │   └── view_jobs.php
-│   │   ├── alumni/
-│   │   │   ├── dashboard.php
-│   │   │   ├── edit_profile.php
-│   │   │   └── view_jobs.php
-│   │   └── auth/
-│   │       ├── login.php
-│   │       └── register.php
+│   └── views/
+│       ├── admin/
+│       │   ├── dashboard.php
+│       │   ├── edit_profile.php
+│       │   ├── manage_users.php
+│       │   ├── post_job.php
+│       │   └── view_jobs.php
+│       ├── alumni/
+│       │   ├── dashboard.php
+│       │   ├── edit_profile.php
+│       │   └── view_jobs.php
+│       └── auth/
+│           ├── login.php
+│           └── register.php
 ├── config/
 │   └── database.php
 ├── public/
 │   ├── css/
 │   ├── js/
 │   └── index.php
-└── vendor/
-    └── autoload.php
